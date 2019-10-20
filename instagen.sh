@@ -1,8 +1,8 @@
 #!/bin/bash
 # Instagram Generator
 # Don't copy this code without give me the credits, bitch!
-# Coded by: github.com/thelinuxchoice
-# Instagram: @thelinuxchoice
+# Coded by: Sanju Pappachan
+# Instagram: @nonchak_player
 
 
 string4=$(openssl rand -hex 32 | cut -c 1-4)
@@ -30,7 +30,7 @@ printf "\e[1;77m  _| |_ | | | |\__ \| |_ | (_| || (_| ||  __/| | | | \e[0m\n"
 printf "\e[1;77m |_____||_| |_||___/ \__| \__,_| \__, | \___||_| |_| \e[0m\n"
 printf "\e[1;77m                                  __/ |              \e[0m\n"
 printf "\e[1;77m                                 |___/               \e[0m\n"
-printf "\e[1;45m  Instagram generator v1.0 Author: @thelinuxchoice  \e[0m\n"
+printf "\e[1;45m  Instagram generator v1.0 Author: @SANJU PAPPACHAN  \e[0m\n"
 printf "\n"
 }
 
