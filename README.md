@@ -1,7 +1,6 @@
 # Instagen v1.0
 # Instagram Account Generator
-## Author: github.com/thelinuxchoice
-## IG: instagram.com/thelinuxchoice
+## Author: Sanju Pappachan
 ### Don't copy this code without give me the credits, bitch!
 Instagen is an Shell Script to create instagram accounts from command-line.
 
@@ -9,8 +8,8 @@ Instagen is an Shell Script to create instagram accounts from command-line.
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/instasgen
-cd instashell
+git clone https://github.com/Sanju8943/instagen
+cd instagen
 chmod +x instagen.sh
 ./instagen.sh
 ```
